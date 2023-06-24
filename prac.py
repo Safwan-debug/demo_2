@@ -1,1 +1,5 @@
-print('hello world')
+# print('hello world')
+def saf():
+    return 'saf'
+
+print(saf())
